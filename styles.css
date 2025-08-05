@@ -10,6 +10,9 @@ body {
 h1 {
     color: #f60000;
 }
+p {
+    color: #2d9500;
+}
 
 section {
     margin: 20px;
